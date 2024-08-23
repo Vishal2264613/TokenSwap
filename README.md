@@ -40,4 +40,4 @@ To deploy your contract to a live network, configure your deployment script with
    e. owner2 address (Address from which you deployed bob contract)\
    f. token amount\
 5. From alice and bob contract approve the token amount they want to transfer.
-6. Then simply use Swaptoken function in token swap contract and tranfer alice & bob token to eachother addresses.
+6. Then simply use Swaptoken function in token swap contract and transfer alice & bob token to each other addresses.
