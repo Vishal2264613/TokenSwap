@@ -32,12 +32,12 @@ To deploy your contract to a live network, configure your deployment script with
 
 1. Copy & paste code to Remix IDE.
 2. Compile and deploy Alice and Bob contract (from different addresses).
-3. After that deploy tokenSwap contract by adding the some parameters.
-   a. Token1 address (alice contract address)
-   b. owner1 address (Address from which you deployed alice contract)
-   c. token amount 
-   d. Token2 address (bob contract address)
-   e. owner2 address (Address from which you deployed bob contract)
-   f. token amount
+3. After that deploy tokenSwap contract by adding the some parameters.__
+   a. Token1 address (alice contract address)__
+   b. owner1 address (Address from which you deployed alice contract)__
+   c. token amount __
+   d. Token2 address (bob contract address)__
+   e. owner2 address (Address from which you deployed bob contract)__
+   f. token amount__
 5. From alice and bob contract approve the token amount they want to transfer.
 6. Then simply use Swaptoken function in token swap contract and tranfer alice & bob token to eachother addresses.
